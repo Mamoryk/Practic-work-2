@@ -1,0 +1,15 @@
+C:\Users\mamor\Desktop\xxx\Мерцуля\Пр2\PW2\PW2\bin\Debug\net6.0\PW2.exe
+C:\Users\mamor\Desktop\xxx\Мерцуля\Пр2\PW2\PW2\bin\Debug\net6.0\PW2.deps.json
+C:\Users\mamor\Desktop\xxx\Мерцуля\Пр2\PW2\PW2\bin\Debug\net6.0\PW2.runtimeconfig.json
+C:\Users\mamor\Desktop\xxx\Мерцуля\Пр2\PW2\PW2\bin\Debug\net6.0\PW2.dll
+C:\Users\mamor\Desktop\xxx\Мерцуля\Пр2\PW2\PW2\bin\Debug\net6.0\PW2.pdb
+C:\Users\mamor\Desktop\xxx\Мерцуля\Пр2\PW2\PW2\obj\Debug\net6.0\PW2.csproj.AssemblyReference.cache
+C:\Users\mamor\Desktop\xxx\Мерцуля\Пр2\PW2\PW2\obj\Debug\net6.0\PW2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mamor\Desktop\xxx\Мерцуля\Пр2\PW2\PW2\obj\Debug\net6.0\PW2.AssemblyInfoInputs.cache
+C:\Users\mamor\Desktop\xxx\Мерцуля\Пр2\PW2\PW2\obj\Debug\net6.0\PW2.AssemblyInfo.cs
+C:\Users\mamor\Desktop\xxx\Мерцуля\Пр2\PW2\PW2\obj\Debug\net6.0\PW2.csproj.CoreCompileInputs.cache
+C:\Users\mamor\Desktop\xxx\Мерцуля\Пр2\PW2\PW2\obj\Debug\net6.0\PW2.dll
+C:\Users\mamor\Desktop\xxx\Мерцуля\Пр2\PW2\PW2\obj\Debug\net6.0\refint\PW2.dll
+C:\Users\mamor\Desktop\xxx\Мерцуля\Пр2\PW2\PW2\obj\Debug\net6.0\PW2.pdb
+C:\Users\mamor\Desktop\xxx\Мерцуля\Пр2\PW2\PW2\obj\Debug\net6.0\PW2.genruntimeconfig.cache
+C:\Users\mamor\Desktop\xxx\Мерцуля\Пр2\PW2\PW2\obj\Debug\net6.0\ref\PW2.dll
